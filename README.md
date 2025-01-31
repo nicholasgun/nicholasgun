@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicholas</h1>
-<h3 align="center">I am a 6th-semester Data Science & Analytics undergraduate currently studying at Petra Christian University.</h3>
+<h3 align="center">I am an Data Science & Analytics undergraduate currently studying at Petra Christian University.</h3>
 
 - 🌱 I’m currently learning **website development and data science**
 
